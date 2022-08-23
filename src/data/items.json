@@ -1,0 +1,32 @@
+[
+    {
+        "id": "dsfsd76",
+        "name": "Book",
+        "price": 10.99,
+        "imgUrl": "/img/book.png"
+    },
+    {
+        "id": "765sdfasdf",
+        "name": "Computer",
+        "price": 2010.99,
+        "imgUrl": "/img/computer.png"
+    },
+    {
+        "id": "78sad65f",
+        "name": "Banana",
+        "price": 16.99,
+        "imgUrl": "/img/bananas.png"
+    },
+    {
+        "id": "a87sd6f",
+        "name": "TV",
+        "price": 1000.99,
+        "imgUrl": "/img/tv.png"
+    },
+    {
+        "id": "98f58a",
+        "name": "GameBoy",
+        "price": 400.99,
+        "imgUrl": "/img/gameboy.png"
+    }
+]
